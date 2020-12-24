@@ -1,8 +1,1 @@
-# Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nemohohaloai/count.svg" />
-</p>
+[![NemoHoHaloAi's github stats](https://github-readme-stats.vercel.app/api?username=NemoHoHaloAi)](https://github.com/anuraghazra/github-readme-stats)
